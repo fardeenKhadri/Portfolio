@@ -1,67 +1,22 @@
-![cv](https://github.com/BartoszJarocki/cv/assets/1017620/79bdb9fc-0b20-4d2c-aafe-0526ad4a71d2)
+# 👋 Hi, I'm FARDEEN S KHADRI
 
-# Minimalist CV [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FBartoszJarocki%2Fcv)
+💡 Passionate **Machine Learning Developer** | 🛠️ ECE Undergrad | ⚡ Embedded + AI Innovator
 
-Simple web app that renders minimalist CV with print-friendly layout.
+As an Electronics and Communication Engineering student, I combine my knowledge of hardware with powerful AI solutions to build impactful, real-world tech. From intelligent embedded systems to ML-powered applications, I thrive at the intersection of software and hardware innovation.
 
-Built with Next.js and shadcn/ui, deployed on Vercel.
+---
 
-# Features
+## 🧠 Tech Stack Highlights
 
-- Setup only takes a few minutes [single config file](./src/data/resume-data.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/ui, TailwindCss
-- Auto generated Layout
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+**Languages:** Python, C, C++, JavaScript, HTML/CSS  
+**Frameworks:** Flask, Django, FastAPI, Streamlit, OpenCV, TensorFlow, PyTorch  
+**Tools:** Git, GitHub, Docker, Power BI, Postman  
+**Cloud & DevOps:** Vercel, Heroku, GCP, AWS, GitHub Actions  
+**Design & Creative:** Figma, Blender, Photoshop, Canva  
+**Others:** Arduino, ESP32/8266, Linux, Machine Learning, IoT, AI Vision Systems
 
-# Getting Started Locally
+---
 
-1. Clone this repository to your local machine:
+📫 **Let’s Connect**  
+[LinkedIn](https://linkedin.com/in/fardeen-khadri-58a842220) | [GitHub](https://github.com/fardeenKhadri)
 
-   ```bash
-   git clone https://github.com/BartoszJarocki/cv.git
-   ```
-
-2. Move to the cloned directory
-
-   ```bash
-   cd cv
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   yarn install
-   ```
-
-4. Start the local Server:
-
-   ```bash
-   yarn dev
-   ```
-
-5. Open the [Config file](./src/data/resume-data.tsx) and make changes
-
-# Run with Docker
-
-Build the container
-
-```
-docker compose build
-```
-
-Run the container
-
-```
-docker compose up -d
-```
-
-Stop the Container
-
-```
-docker compose down 
-```
-
-# License
-
-[MIT](https://choosealicense.com/licenses/mit/)
